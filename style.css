@@ -2,6 +2,10 @@ body {
     #CCCCCC
 }
 
+#banner {
+    width: 100%;
+}
+
 h1{
     text-align: center
 }
@@ -15,5 +19,5 @@ p {
 }
 
 em strong {
-    color: rgb(117, 4, 4);
+    color: rgb(179, 13, 13);
 }
